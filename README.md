@@ -6,7 +6,7 @@
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wu529778790/panhub.shenzjd.com)
 [![Docker Hub](https://img.shields.io/badge/docker-ghcr.io-blue?logo=docker)](https://github.com/wu529778790/panhub.shenzjd.com/pkgs/container/panhub)
 
-**在线体验**：<https://panhub.shenzjd.com>
+**在线体验**：<https://so.154321.xyz>
 
 ---
 
@@ -266,4 +266,4 @@ npm test:coverage
 
 **⭐ 如果觉得有用，请给个 Star 支持一下！**
 
-**在线体验**：<https://panhub.shenzjd.com>
+**在线体验**：<https://so.154321.xyz>
